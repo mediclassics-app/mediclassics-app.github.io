@@ -43,12 +43,3 @@
   homepage: "https://www.kiom.re.kr/organization/personViewMain.do?id=1289&srch_mu_site=&menu_nix=4AHFx6LW&seltab_idx=0&orgid=0"
   workat: ["KIOM", "https://kiom.re.kr/"]
   show: false
-
-- img: Kim.png
-  name: 김상현
-  nickname: Kim
-  major: 한의학, 원전학
-  desc:
-  homepage: "https://www.kiom.re.kr/organization/personViewMain.do?id=1468&srch_mu_site=&menu_nix=4AHFx6LW&seltab_idx=0&orgid=0"
-  workat: ["KIOM", "https://kiom.re.kr/"]
-  show: false

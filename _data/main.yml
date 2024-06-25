@@ -24,8 +24,6 @@ prj:
         text: Google Play
       - link: https://apps.apple.com/us/app/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90-%EB%82%B4%EC%86%90%EC%95%88%EC%97%90/id6504664467
         text: Apple App-store
-      - link: https://app.mediclassics.kr
-        text: Web version
 
   - title: 한의학 웹앱
     title2: Single Page Applications

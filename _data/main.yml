@@ -13,7 +13,7 @@ prj:
       - link: BASEURL/contents/database/list
         text: 서적목록
 
-  - title: 내손안에동의보감
+  - title: 내손안에 동의보감
     title2: Mobile Application
     subtitle: 동의보감 모바일 앱
     desc: 동의보감을 열람하고 검색할 수 있도록 최적화된 모바일 어플리케이션입니다.
@@ -21,8 +21,10 @@ prj:
     img: img/main/index06.png
     btns:
       - link: https://goo.gl/0rjUQc
-        text: Google app store
-      - link: https://kc.mediclassics.kr
+        text: Google Play
+      - link: https://apps.apple.com/us/app/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90-%EB%82%B4%EC%86%90%EC%95%88%EC%97%90/id6504664467
+        text: Apple App-store
+      - link: https://app.mediclassics.kr
         text: Web version
 
   - title: 한의학 웹앱

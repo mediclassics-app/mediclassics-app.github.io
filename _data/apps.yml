@@ -16,6 +16,12 @@
   img: booklist.png
   desc: 《한의학 고서 목록》을 웹에서 검색할 수 있습니다.
 
+- group: utility
+  title: 조선의 의료 제도
+  url: https://joseon.mediclassics.kr/
+  img: joseon.png
+  desc: 《조선의 의료 제도》를 웹에서 검색할 수 있습니다.
+
 - group: 한의학고전DB 부가서비스
   title: 한의학고전DB Dashboard
   url: http://info.mediclassics.kr/contents/database/dashboard
